@@ -5,9 +5,9 @@ Based on https://learn.adafruit.com/adafruit-mini-pitft-135x240-color-tft-add-on
 
 ## Installation
 
-Enable SPI and I2C in the raspi-config menu.
-Enable autoboot to console in the raspi-config menu.
-Run installer.sh.
+- Enable SPI and I2C in the raspi-config menu.
+- Enable autoboot to console in the raspi-config menu.
+- Run installer.sh.
 
 ## Screenshots
 ![Network down](network_down.jpg)
