@@ -12,4 +12,3 @@ Based on https://learn.adafruit.com/adafruit-mini-pitft-135x240-color-tft-add-on
 ## Screenshots
 ![Network down](network_down.jpg)
 ![Network Up](network_up.jpg)
-![Animation of a connection](animation.gif)
