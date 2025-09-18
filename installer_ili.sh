@@ -19,7 +19,7 @@ cd ~/minipitft_netdiagnostic
 echo <<EOF >>~/.bashrc
 if [ $XDG_VTNR ]
 then
-  /usr/local/bin/netdiag.py > ~/netdiag_output.log
+  python3 /usr/local/bin/netdiag.py > ~/netdiag_output.log
 fi
 EOF
 cp -p netdiag_ili.py /usr/local/bin/netdiag.py
